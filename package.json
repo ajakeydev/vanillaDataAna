@@ -1,5 +1,17 @@
 {
+  "name": "vanilladataana",
+  "version": "1.0.0",
+  "description": "Working project list",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "chart.js": "^4.4.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
   }
 }
